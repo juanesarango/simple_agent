@@ -42,5 +42,9 @@ The agent will search for Airbnb listings in NYC, find nearby restaurants and at
 ## 💬 Prompt Used
 
 ```text
-Choose a nice place on Airbnb, under $600 usd/night, to stay in NYC on the upper east side close to Rockefeller University and Central Park, then use Google to find nearby restaurants and attractions. Write the results in current directory in retreat_plan.md in a nice markdown format, with image links and with a summary at the end.
+ Choose a nice place on Airbnb, under $600 usd/night, to stay in NYC
+ on the upper east side close to Rockefeller University and Central 
+ Park, then use Google to find nearby restaurants and attractions. 
+ Write the results in current directory in retreat_plan.md in a nice 
+ markdown format, with image links and with a summary at the end.
 ```
